@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="elevation">24dp</dimen>
+  <dimen name="activity_horizontal_margin">8dp</dimen>
+  <dimen name="activity_horizontal_gutter">8dp</dimen>
+  <dimen name="activity_margin_top">8dp</dimen>
+</resources>
